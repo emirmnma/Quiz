@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3d0f16a33e84d45ac09352facba046, type: 3}
+  m_Name: New Question 2
+  m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
+  Answers:
+  - "Kanuni Sultan S\xFCleyman"
+  - Yavuz Sultan Selim
+  - Orhan Bey
+  - Fatih Sultan Selim
+  question: "Bir Sebepten Dolay\u0131 Tek Kula\u011F\u0131na K\xFCpe Takan Osmanl\u0131
+    Padi\u015Fah\u0131 Kimdir?"
+  CorrectAnswerIndex: 1
